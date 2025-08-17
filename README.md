@@ -1,3 +1,3 @@
 # Intro
 Hi , I am Harsh 
-![Profile Image](profile.jpg)
+![Profile Image](Harsh.jpg)
